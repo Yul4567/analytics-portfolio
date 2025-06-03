@@ -117,7 +117,7 @@ def show_final_message(chat_id):
 
     # Фото
     with open('123.jpg', 'rb') as photo:
-    bot.send_photo(chat_id, photo=photo, caption='Підказка 👀')
+        bot.send_photo(chat_id, photo=photo, caption='Підказка 👀')
 
 
 # Зупиняємо гру, щоб більше не відправлялись питання
