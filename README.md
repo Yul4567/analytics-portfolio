@@ -1,6 +1,3 @@
-# analytics-portfolio
-**This repository contains small Python projects focused on data analysis and visualization.**
-
 # Correlation Matrix Heatmaps for Psychological Data
 
 This project visualizes correlation matrices for two groups of participants (with and without combat experience) based on the results of psychological testing.
