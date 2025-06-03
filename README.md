@@ -6,7 +6,7 @@ This repository showcases a selection of my practical projects in psychology, da
 
 - `telegram-quiz-bot/` — an interactive Telegram bot quiz with personalized feedback and final message logic. Designed as a playful tool for engagement and gifting hints.
 - `data-viz-project/` — statistical analysis of psychological variables (e.g., creativity, national identity, etc.) using Python, and visualized with `matplotlib` and `seaborn`.
-- 'colab_vizialization' - a final project for the Reuse Science intensive, which includes exploratory data analysis and various types of plots to reveal insights from the data. 
+- 'colab-visualization/'- a final project for the Reuse Science intensive, which includes exploratory data analysis and various types of plots to reveal insights from the data. 
 
 ### 🎯 Purpose
 
